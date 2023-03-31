@@ -135,22 +135,6 @@
       "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
     },
     {
-      "id": "977d624f-c37d-4939-90e9-20a0d4d76cd6",
-      "id_categoria": 3,
-      "nombre": "Cosmetiquero",
-      "precio": 5000,
-      "imagen": "https://i.ibb.co/FXPC8fY/cartera-008.jpg",
-      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
-    },
-    {
-      "id": "31d1d83c-b55b-4094-8bbd-7556289c7694",
-      "id_categoria": 3,
-      "nombre": "Billetera con estampado",
-      "precio": 6000,
-      "imagen": "https://i.ibb.co/DKz2WQK/cartera-009.jpg",
-      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
-    },
-    {
       "id": "fd459f14-1997-4404-8650-08358dedd1a8",
       "id_categoria": 3,
       "nombre": "Cartera Black Bluter",
