@@ -127,27 +127,11 @@
       "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
     },
     {
-      "id": "9658bf52-6695-4572-bf7d-42afb3382f77",
-      "id_categoria": 3,
-      "nombre": "Cartuchera",
-      "precio": 6000,
-      "imagen": "https://i.ibb.co/F4jsfzh/cartera-005.jpg",
-      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
-    },
-    {
       "id": "6cde8f60-887d-44df-a6b8-2953ced92caa",
       "id_categoria": 3,
       "nombre": "Estuche de bruja",
       "precio": 5000,
       "imagen": "https://i.ibb.co/gSjyhJX/cartera-006.jpg",
-      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
-    },
-    {
-      "id": "a962ced1-10f6-4ac8-b72f-b70fec23d7bf",
-      "id_categoria": 3,
-      "nombre": "Bolsa de cosmeticos",
-      "precio": 5000,
-      "imagen": "https://i.ibb.co/hLDQtTv/cartera-007.jpg",
       "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
     },
     {
