@@ -41,10 +41,6 @@
       "nombre": "Lentes"
     },
     {
-      "id": 10,
-      "nombre": "Musleras"
-    },
-    {
       "id": 11,
       "nombre": "MMuñequeras"
     },
@@ -68,14 +64,6 @@
       "nombre": "Anillos de Plata",
       "precio": 10000,
       "imagen": "https://i.ibb.co/znVV6ww/anillo-001.jpg",
-      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
-    },
-    {
-      "id": "4892c333-b612-40a5-88a0-0e9cac83f682",
-      "id_categoria": 1,
-      "nombre": "Anillos de Acero",
-      "precio": 10000,
-      "imagen": "https://i.ibb.co/zrSsz0t/anillo-002.jpg",
       "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
     },
     {
