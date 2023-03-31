@@ -111,14 +111,6 @@
       "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
     },
     {
-      "id": "f11312e4-cbea-4f76-a082-b1a5045b0642",
-      "id_categoria": 3,
-      "nombre": "Bolso para celular",
-      "precio": 5000,
-      "imagen": "https://i.ibb.co/VT56Xg2/cartera-003.jpg",
-      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
-    },
-    {
       "id": "e5d25862-4a54-4896-8f2e-3a3e0011eed2",
       "id_categoria": 3,
       "nombre": "Bolso de cintura",
