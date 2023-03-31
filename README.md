@@ -29,4 +29,4 @@ To be able to provide a free service to as many people as possible during this p
     
 -------------------------------------------------------------------------------------------------
 
-https://my-json-server.typicode.com/oscarlea/test-json/
+https://my-json-server.typicode.com/oscarlea/AluraJSON/
