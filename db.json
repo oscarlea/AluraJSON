@@ -119,14 +119,6 @@
       "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
     },
     {
-      "id": "6cde8f60-887d-44df-a6b8-2953ced92caa",
-      "id_categoria": 3,
-      "nombre": "Estuche de bruja",
-      "precio": 5000,
-      "imagen": "https://i.ibb.co/gSjyhJX/cartera-006.jpg",
-      "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid, nesciunt neque, laudantium asperiores nostrum, corporis dignissimos animi unde facere recusandae voluptatem omnis. Corporis quibusdam voluptatum sit veritatis voluptas, sapiente inventore."
-    },
-    {
       "id": "fd459f14-1997-4404-8650-08358dedd1a8",
       "id_categoria": 3,
       "nombre": "Cartera Black Bluter",
